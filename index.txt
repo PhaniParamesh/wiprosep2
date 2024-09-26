@@ -1,0 +1,5 @@
+Q: What is the difference between "==" and ".equals()" in Java?
+A: "==" checks for reference equality, while ".equals()" checks for object equality.
+
+Q: What is the purpose of the "finally" block in Java?
+A: The "finally" block is used to execute code regardless of whether an exception is thrown or not.
